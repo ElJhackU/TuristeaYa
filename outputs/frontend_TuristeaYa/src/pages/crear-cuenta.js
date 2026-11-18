@@ -1,0 +1,298 @@
+// 03 · Crear cuenta · Figma 1:47
+export default {
+  "name": "Crear cuenta",
+  "nodes": [
+    {
+      "id": "1:48",
+      "x": 19,
+      "y": 17,
+      "w": 150,
+      "h": 17,
+      "text": "9:41",
+      "font": 12,
+      "line": 17,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:49",
+      "x": 297,
+      "y": 17,
+      "w": 77,
+      "h": 15,
+      "text": "Wi-Fi  100%",
+      "font": 11,
+      "line": 15,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:50",
+      "x": 19,
+      "y": 51,
+      "w": 20,
+      "h": 36,
+      "text": "‹",
+      "font": 26,
+      "line": 36,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:51",
+      "x": 51,
+      "y": 54,
+      "w": 318,
+      "h": 31,
+      "text": "Crear cuenta",
+      "font": 22,
+      "line": 31,
+      "bold": true,
+      "color": "#246b53"
+    },
+    {
+      "id": "1:52",
+      "x": 19,
+      "y": 92,
+      "w": 350,
+      "h": 17,
+      "text": "Completa tus datos",
+      "font": 12,
+      "line": 17,
+      "bold": false,
+      "color": "#61736a"
+    },
+    {
+      "id": "1:53",
+      "x": 19,
+      "y": 121,
+      "w": 350,
+      "h": 1,
+      "asset": "0a6277ad-9bdd-4a96-a0c4-ae2dc19fc969.svg"
+    },
+    {
+      "id": "1:55",
+      "x": 19,
+      "y": 136,
+      "w": 350,
+      "h": 17,
+      "text": "Nombre",
+      "font": 12,
+      "line": 17,
+      "bold": true,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:56",
+      "x": 19,
+      "y": 159,
+      "w": 350,
+      "h": 42,
+      "fill": "#fff",
+      "stroke": "#cad8d0",
+      "radius": 8
+    },
+    {
+      "id": "1:57",
+      "x": 31,
+      "y": 170,
+      "w": 326,
+      "h": 20,
+      "text": "María",
+      "font": 14,
+      "line": 20,
+      "bold": false,
+      "color": "#596b63"
+    },
+    {
+      "id": "1:58",
+      "x": 19,
+      "y": 214,
+      "w": 350,
+      "h": 17,
+      "text": "Correo electrónico",
+      "font": 12,
+      "line": 17,
+      "bold": true,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:59",
+      "x": 19,
+      "y": 237,
+      "w": 350,
+      "h": 42,
+      "fill": "#fff",
+      "stroke": "#cad8d0",
+      "radius": 8
+    },
+    {
+      "id": "1:60",
+      "x": 31,
+      "y": 248,
+      "w": 326,
+      "h": 20,
+      "text": "maria@ejemplo.com",
+      "font": 14,
+      "line": 20,
+      "bold": false,
+      "color": "#596b63"
+    },
+    {
+      "id": "1:61",
+      "x": 19,
+      "y": 292,
+      "w": 350,
+      "h": 17,
+      "text": "Contraseña",
+      "font": 12,
+      "line": 17,
+      "bold": true,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:62",
+      "x": 19,
+      "y": 315,
+      "w": 350,
+      "h": 42,
+      "fill": "#fff",
+      "stroke": "#cad8d0",
+      "radius": 8
+    },
+    {
+      "id": "1:63",
+      "x": 31,
+      "y": 326,
+      "w": 326,
+      "h": 20,
+      "text": "••••••••",
+      "font": 14,
+      "line": 20,
+      "bold": false,
+      "color": "#596b63"
+    },
+    {
+      "id": "1:64",
+      "x": 19,
+      "y": 370,
+      "w": 350,
+      "h": 17,
+      "text": "Confirmar contraseña",
+      "font": 12,
+      "line": 17,
+      "bold": true,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:65",
+      "x": 19,
+      "y": 393,
+      "w": 350,
+      "h": 42,
+      "fill": "#fff",
+      "stroke": "#cad8d0",
+      "radius": 8
+    },
+    {
+      "id": "1:66",
+      "x": 31,
+      "y": 404,
+      "w": 326,
+      "h": 20,
+      "text": "••••••••",
+      "font": 14,
+      "line": 20,
+      "bold": false,
+      "color": "#596b63"
+    },
+    {
+      "id": "1:67",
+      "x": 19,
+      "y": 448,
+      "w": 350,
+      "h": 17,
+      "text": "Aceptación",
+      "font": 12,
+      "line": 17,
+      "bold": true,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:68",
+      "x": 19,
+      "y": 471,
+      "w": 229.8,
+      "h": 32,
+      "fill": "#ddeee2",
+      "stroke": "#c7dace",
+      "radius": 3
+    },
+    {
+      "id": "1:69",
+      "x": 28,
+      "y": 479,
+      "w": 212.8,
+      "h": 17,
+      "text": "Acepto los términos y privacidad",
+      "font": 12,
+      "line": 17,
+      "bold": true,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:70",
+      "x": 19,
+      "y": 516,
+      "w": 350,
+      "h": 46,
+      "fill": "#246b53",
+      "stroke": "#246b53",
+      "radius": 8
+    },
+    {
+      "id": "1:71",
+      "x": 33,
+      "y": 529,
+      "w": 322,
+      "h": 20,
+      "text": "Registrarme",
+      "font": 14,
+      "line": 20,
+      "bold": true,
+      "color": "#fff"
+    },
+    {
+      "id": "1:72",
+      "x": 19,
+      "y": 575,
+      "w": 350,
+      "h": 46,
+      "fill": "#fff",
+      "stroke": "#246b53",
+      "radius": 8
+    },
+    {
+      "id": "1:73",
+      "x": 33,
+      "y": 588,
+      "w": 322,
+      "h": 20,
+      "text": "Ya tengo una cuenta",
+      "font": 14,
+      "line": 20,
+      "bold": true,
+      "color": "#246b53"
+    },
+    {
+      "id": "1:74",
+      "x": 144,
+      "y": 831,
+      "w": 100,
+      "h": 4,
+      "fill": "#39795e",
+      "stroke": "#39795e",
+      "radius": 2
+    }
+  ]
+};

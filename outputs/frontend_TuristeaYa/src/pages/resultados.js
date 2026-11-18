@@ -1,0 +1,276 @@
+// 07 · Rutas disponibles · Figma 1:173
+export default {
+  "name": "Rutas disponibles",
+  "nodes": [
+    {
+      "id": "1:174",
+      "x": 19,
+      "y": 17,
+      "w": 150,
+      "h": 17,
+      "text": "9:41",
+      "font": 12,
+      "line": 17,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:175",
+      "x": 297,
+      "y": 17,
+      "w": 77,
+      "h": 15,
+      "text": "Wi-Fi  100%",
+      "font": 11,
+      "line": 15,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:176",
+      "x": 19,
+      "y": 51,
+      "w": 20,
+      "h": 36,
+      "text": "‹",
+      "font": 26,
+      "line": 36,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:177",
+      "x": 51,
+      "y": 54,
+      "w": 318,
+      "h": 31,
+      "text": "Rutas disponibles",
+      "font": 22,
+      "line": 31,
+      "bold": true,
+      "color": "#246b53"
+    },
+    {
+      "id": "1:178",
+      "x": 19,
+      "y": 92,
+      "w": 350,
+      "h": 17,
+      "text": "Hasta Bs 100 · 3 horas · Centro",
+      "font": 12,
+      "line": 17,
+      "bold": false,
+      "color": "#61736a"
+    },
+    {
+      "id": "1:179",
+      "x": 19,
+      "y": 121,
+      "w": 350,
+      "h": 1,
+      "asset": "e4ead47a-8864-421f-9bbc-d8ccdec5a644.svg"
+    },
+    {
+      "id": "1:181",
+      "x": 19,
+      "y": 136,
+      "w": 350,
+      "h": 46,
+      "fill": "#fff",
+      "stroke": "#246b53",
+      "radius": 8
+    },
+    {
+      "id": "1:182",
+      "x": 33,
+      "y": 149,
+      "w": 322,
+      "h": 20,
+      "text": "Filtrar y ordenar",
+      "font": 14,
+      "line": 20,
+      "bold": true,
+      "color": "#246b53"
+    },
+    {
+      "id": "1:183",
+      "x": 19,
+      "y": 195,
+      "w": 350,
+      "h": 85,
+      "fill": "#fff",
+      "stroke": "#d7e3da",
+      "radius": 8
+    },
+    {
+      "id": "1:184",
+      "x": 31,
+      "y": 207,
+      "w": 326,
+      "h": 21,
+      "text": "Paseo por el centro",
+      "font": 15,
+      "line": 21,
+      "bold": true,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:185",
+      "x": 31,
+      "y": 234,
+      "w": 326,
+      "h": 36,
+      "text": "Bs 85 · 2 h 30 min · 1.8 km\n3 paradas · Calificación 4.8 / 5",
+      "font": 13,
+      "line": 18,
+      "bold": false,
+      "color": "#61736a"
+    },
+    {
+      "id": "1:186",
+      "x": 19,
+      "y": 293,
+      "w": 350,
+      "h": 85,
+      "fill": "#fff",
+      "stroke": "#d7e3da",
+      "radius": 8
+    },
+    {
+      "id": "1:187",
+      "x": 31,
+      "y": 305,
+      "w": 326,
+      "h": 21,
+      "text": "Una tarde cultural",
+      "font": 15,
+      "line": 21,
+      "bold": true,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:188",
+      "x": 31,
+      "y": 332,
+      "w": 326,
+      "h": 36,
+      "text": "Bs 40 · 1 h 50 min · 1 km\n2 paradas · Calificación 4.6 / 5",
+      "font": 13,
+      "line": 18,
+      "bold": false,
+      "color": "#61736a"
+    },
+    {
+      "id": "1:189",
+      "x": 19,
+      "y": 391,
+      "w": 350,
+      "h": 20,
+      "text": "Los importes son aproximados y por persona.",
+      "font": 14,
+      "line": 20,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:190",
+      "x": 19,
+      "y": 424,
+      "w": 350,
+      "h": 46,
+      "fill": "#fff",
+      "stroke": "#246b53",
+      "radius": 8
+    },
+    {
+      "id": "1:191",
+      "x": 33,
+      "y": 437,
+      "w": 322,
+      "h": 20,
+      "text": "Cambiar presupuesto o tiempo",
+      "font": 14,
+      "line": 20,
+      "bold": true,
+      "color": "#246b53"
+    },
+    {
+      "id": "1:192",
+      "x": -1,
+      "y": 765,
+      "w": 390,
+      "h": 58,
+      "fill": "#fff",
+      "stroke": "#d7e3da",
+      "radius": 0
+    },
+    {
+      "id": "1:193",
+      "x": 4,
+      "y": 774,
+      "w": 87.5,
+      "h": 40,
+      "fill": "#e3efe7",
+      "stroke": "#e3efe7",
+      "radius": 8
+    },
+    {
+      "id": "1:194",
+      "x": 8,
+      "y": 786,
+      "w": 79.5,
+      "h": 17,
+      "text": "Inicio",
+      "font": 12,
+      "line": 17,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:195",
+      "x": 105.5,
+      "y": 786,
+      "w": 79.5,
+      "h": 17,
+      "text": "Mis rutas",
+      "font": 12,
+      "line": 17,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:196",
+      "x": 203,
+      "y": 786,
+      "w": 79.5,
+      "h": 17,
+      "text": "Cupones",
+      "font": 12,
+      "line": 17,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:197",
+      "x": 300.5,
+      "y": 786,
+      "w": 79.5,
+      "h": 17,
+      "text": "Perfil",
+      "font": 12,
+      "line": 17,
+      "bold": false,
+      "color": "#243d35"
+    },
+    {
+      "id": "1:198",
+      "x": 144,
+      "y": 831,
+      "w": 100,
+      "h": 4,
+      "fill": "#39795e",
+      "stroke": "#39795e",
+      "radius": 2
+    }
+  ]
+};

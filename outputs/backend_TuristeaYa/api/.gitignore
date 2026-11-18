@@ -1,0 +1,7 @@
+.env
+.test-deps/
+__pycache__/
+*.pyc
+.venv/
+.venv-test/
+.npm-cache/

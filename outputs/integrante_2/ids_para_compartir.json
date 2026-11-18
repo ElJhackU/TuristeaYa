@@ -1,0 +1,576 @@
+{
+  "zones": [
+    {
+      "id": "623e6650-ead5-4c0e-860f-3a5ca8ebb3ac",
+      "name": "Centro",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.495,
+      "longitude": -68.134
+    },
+    {
+      "id": "25118dcc-5703-4149-89dc-e35314190e2d",
+      "name": "Sopocachi",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.514,
+      "longitude": -68.126
+    },
+    {
+      "id": "7faf860d-ac21-4eff-ba08-f1ee6dbd1be9",
+      "name": "San Pedro",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.505,
+      "longitude": -68.139
+    },
+    {
+      "id": "3ed7cba2-b397-4e7a-ac18-03e8ec96e6cc",
+      "name": "Miraflores",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.503,
+      "longitude": -68.118
+    },
+    {
+      "id": "1c024399-b0fa-47bf-9f90-6ba2b7d25d50",
+      "name": "Obrajes",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.529,
+      "longitude": -68.107
+    },
+    {
+      "id": "8168f62c-cbdc-4c3d-a546-feb6398f5d1a",
+      "name": "Calacoto",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.54,
+      "longitude": -68.08
+    },
+    {
+      "id": "8d3af708-fb83-4e14-b6c3-699f9f9a5473",
+      "name": "San Miguel",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.542,
+      "longitude": -68.079
+    },
+    {
+      "id": "aebf278b-6779-42ef-aca8-ea913a375435",
+      "name": "Cota Cota",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.546,
+      "longitude": -68.065
+    },
+    {
+      "id": "f84fc37f-6f5b-4003-96b7-cee672654621",
+      "name": "Achumani",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.526,
+      "longitude": -68.068
+    },
+    {
+      "id": "2a02cc0d-243c-46d9-ace5-812f6a82987a",
+      "name": "Irpavi",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.522,
+      "longitude": -68.085
+    },
+    {
+      "id": "55b77f40-5445-49dd-a982-c4211204a3b8",
+      "name": "Mallasa",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.573,
+      "longitude": -68.091
+    },
+    {
+      "id": "d2cd2074-709f-488c-a058-8759412c43e5",
+      "name": "Mallasilla",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.584,
+      "longitude": -68.079
+    },
+    {
+      "id": "ee956c19-2214-4c01-b7e6-bb0f3c143207",
+      "name": "Següencoma",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.539,
+      "longitude": -68.11
+    },
+    {
+      "id": "fd7c8c80-15c5-4a1f-873d-5add6e768c74",
+      "name": "Bajo Llojeta",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.537,
+      "longitude": -68.131
+    },
+    {
+      "id": "4d8b8feb-971c-4d25-93dd-0d6786bfd36a",
+      "name": "Villa Fátima",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.477,
+      "longitude": -68.118
+    },
+    {
+      "id": "d722655d-a758-4ab3-9e5c-73fecbe57dd3",
+      "name": "Tembladerani",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.519,
+      "longitude": -68.143
+    },
+    {
+      "id": "e296e5e4-5f5e-4c0a-a67d-f13a459bf1ff",
+      "name": "Alto Obrajes",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.521,
+      "longitude": -68.109
+    },
+    {
+      "id": "320e01de-78b6-4b6a-b4ba-fe275530dc4b",
+      "name": "Chuquiaguillo",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.466,
+      "longitude": -68.1
+    },
+    {
+      "id": "a292d53a-a61b-4a44-a38d-a5fac7915475",
+      "name": "Pampahasi",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.493,
+      "longitude": -68.098
+    },
+    {
+      "id": "27839bd6-6f8d-45be-b442-610e6d0c66a1",
+      "name": "Chasquipampa",
+      "city": "La Paz",
+      "country_code": "BO",
+      "latitude": -16.552,
+      "longitude": -68.04
+    }
+  ],
+  "subscription_plans": [
+    {
+      "id": "b613d12a-8f8d-473f-8429-1ef3c019cc45",
+      "name": "Demo Nivel 1 - 30 días",
+      "price": 25.0,
+      "currency": "BOB",
+      "period_days": 30
+    },
+    {
+      "id": "20127228-495b-4586-97be-760f4e968d7a",
+      "name": "Demo Nivel 1 - 90 días",
+      "price": 50.0,
+      "currency": "BOB",
+      "period_days": 90
+    },
+    {
+      "id": "df4b4290-5d39-4a17-8477-6e2280912f5a",
+      "name": "Demo Nivel 1 - 180 días",
+      "price": 75.0,
+      "currency": "BOB",
+      "period_days": 180
+    },
+    {
+      "id": "8444d162-049f-4070-a105-5b7a755c1d04",
+      "name": "Demo Nivel 1 - 365 días",
+      "price": 100.0,
+      "currency": "BOB",
+      "period_days": 365
+    },
+    {
+      "id": "722a6fcb-b2b2-4ff3-9ec3-e693899f7a9b",
+      "name": "Demo Nivel 2 - 30 días",
+      "price": 50.0,
+      "currency": "BOB",
+      "period_days": 30
+    },
+    {
+      "id": "787b81c1-e12f-43de-9b7e-0295018d42da",
+      "name": "Demo Nivel 2 - 90 días",
+      "price": 100.0,
+      "currency": "BOB",
+      "period_days": 90
+    },
+    {
+      "id": "e73c2e24-3ef9-4d1f-97bf-7fd294884d5a",
+      "name": "Demo Nivel 2 - 180 días",
+      "price": 150.0,
+      "currency": "BOB",
+      "period_days": 180
+    },
+    {
+      "id": "c4edf656-c494-43ea-b2c5-ede4d8ecd045",
+      "name": "Demo Nivel 2 - 365 días",
+      "price": 200.0,
+      "currency": "BOB",
+      "period_days": 365
+    },
+    {
+      "id": "dfcca45e-d9ce-4915-84fe-9e63e1437742",
+      "name": "Demo Nivel 3 - 30 días",
+      "price": 75.0,
+      "currency": "BOB",
+      "period_days": 30
+    },
+    {
+      "id": "a0509fee-9336-42cf-8ac5-7d5044e281c3",
+      "name": "Demo Nivel 3 - 90 días",
+      "price": 150.0,
+      "currency": "BOB",
+      "period_days": 90
+    },
+    {
+      "id": "ddfca639-50de-430b-a62f-761b62ed769f",
+      "name": "Demo Nivel 3 - 180 días",
+      "price": 225.0,
+      "currency": "BOB",
+      "period_days": 180
+    },
+    {
+      "id": "7cdbc95a-5942-4ce5-a830-d8ccc8244132",
+      "name": "Demo Nivel 3 - 365 días",
+      "price": 300.0,
+      "currency": "BOB",
+      "period_days": 365
+    },
+    {
+      "id": "9ead70fd-e69a-4be2-9807-faa143afbd57",
+      "name": "Demo Nivel 4 - 30 días",
+      "price": 100.0,
+      "currency": "BOB",
+      "period_days": 30
+    },
+    {
+      "id": "10fef389-ef2f-463f-b1d3-d4560e1ef91a",
+      "name": "Demo Nivel 4 - 90 días",
+      "price": 200.0,
+      "currency": "BOB",
+      "period_days": 90
+    },
+    {
+      "id": "a3d24477-9d33-433b-83e2-470381805c22",
+      "name": "Demo Nivel 4 - 180 días",
+      "price": 300.0,
+      "currency": "BOB",
+      "period_days": 180
+    },
+    {
+      "id": "d4e9005a-fb3d-4d8d-ab6f-47820f589b60",
+      "name": "Demo Nivel 4 - 365 días",
+      "price": 400.0,
+      "currency": "BOB",
+      "period_days": 365
+    },
+    {
+      "id": "d7445bbf-f8a1-4991-809e-e6a13af69a9e",
+      "name": "Demo Nivel 5 - 30 días",
+      "price": 125.0,
+      "currency": "BOB",
+      "period_days": 30
+    },
+    {
+      "id": "634d6b93-50f9-4511-8a07-cc487e8bd086",
+      "name": "Demo Nivel 5 - 90 días",
+      "price": 250.0,
+      "currency": "BOB",
+      "period_days": 90
+    },
+    {
+      "id": "bf14d7c5-8bf9-4c29-8639-8f920992406a",
+      "name": "Demo Nivel 5 - 180 días",
+      "price": 375.0,
+      "currency": "BOB",
+      "period_days": 180
+    },
+    {
+      "id": "b7906188-7824-4c25-8607-704fa7c109c9",
+      "name": "Demo Nivel 5 - 365 días",
+      "price": 500.0,
+      "currency": "BOB",
+      "period_days": 365
+    }
+  ],
+  "businesses": [
+    {
+      "id": "5041c030-2399-4988-9aa5-edf2fd9faba6",
+      "owner_id": "66add482-c36d-41a1-8817-bb2f2218f91a",
+      "name": "Demo - Sabores del Illimani",
+      "contact_email": "negocio01@example.com",
+      "phone": null
+    },
+    {
+      "id": "ed7b6d54-2ddd-4350-8002-4b4f8d85afc3",
+      "owner_id": "a5fa3b3c-681b-4f77-87f4-d11a1f0f14f4",
+      "name": "Demo - Senderos Andinos",
+      "contact_email": "negocio02@example.com",
+      "phone": null
+    },
+    {
+      "id": "b7d53c0a-f106-458a-b39d-de188ac98ed7",
+      "owner_id": "fc4f350c-6c2c-49a1-b159-fd9b4f53409f",
+      "name": "Demo - Café de Altura",
+      "contact_email": "negocio03@example.com",
+      "phone": null
+    },
+    {
+      "id": "edec9437-5cf8-4952-bf89-5e1d6f7ab234",
+      "owner_id": "b16b016d-ffe6-4340-ad17-ddeb16776cc6",
+      "name": "Demo - Artesanías Kantuta",
+      "contact_email": "negocio04@example.com",
+      "phone": null
+    },
+    {
+      "id": "1e31fec4-cd34-4448-96de-d711c004c48f",
+      "owner_id": "66add482-c36d-41a1-8817-bb2f2218f91a",
+      "name": "Demo - Aventura Paceña",
+      "contact_email": "negocio05@example.com",
+      "phone": null
+    },
+    {
+      "id": "0df6e5d3-4bcd-44cb-b6c5-6501c247919c",
+      "owner_id": "a5fa3b3c-681b-4f77-87f4-d11a1f0f14f4",
+      "name": "Demo - Cocina del Altiplano",
+      "contact_email": "negocio06@example.com",
+      "phone": null
+    },
+    {
+      "id": "b2b6c387-7af0-491e-8282-d511ffaa1888",
+      "owner_id": "fc4f350c-6c2c-49a1-b159-fd9b4f53409f",
+      "name": "Demo - Rutas del Cóndor",
+      "contact_email": "negocio07@example.com",
+      "phone": null
+    },
+    {
+      "id": "ae98377e-f16d-489b-b506-df4ecf73187e",
+      "owner_id": "b16b016d-ffe6-4340-ad17-ddeb16776cc6",
+      "name": "Demo - Tejidos de la Montaña",
+      "contact_email": "negocio08@example.com",
+      "phone": null
+    },
+    {
+      "id": "e600ad83-4cdc-44e2-b6bc-73240bba7239",
+      "owner_id": "66add482-c36d-41a1-8817-bb2f2218f91a",
+      "name": "Demo - Mirador del Sol",
+      "contact_email": "negocio09@example.com",
+      "phone": null
+    },
+    {
+      "id": "c3818427-13a4-4663-acc5-f533391de083",
+      "owner_id": "a5fa3b3c-681b-4f77-87f4-d11a1f0f14f4",
+      "name": "Demo - Bicicletas del Valle",
+      "contact_email": "negocio10@example.com",
+      "phone": null
+    },
+    {
+      "id": "3c7701b5-06e1-4d48-acb3-c2d823f3527c",
+      "owner_id": "fc4f350c-6c2c-49a1-b159-fd9b4f53409f",
+      "name": "Demo - Eco Paseos La Paz",
+      "contact_email": "negocio11@example.com",
+      "phone": null
+    },
+    {
+      "id": "49040d02-516b-4f91-965a-002abc0cfca3",
+      "owner_id": "b16b016d-ffe6-4340-ad17-ddeb16776cc6",
+      "name": "Demo - Sabores de la Tierra",
+      "contact_email": "negocio12@example.com",
+      "phone": null
+    },
+    {
+      "id": "6184334e-85d0-47ab-8a44-384cd5a1a582",
+      "owner_id": "66add482-c36d-41a1-8817-bb2f2218f91a",
+      "name": "Demo - Taller Cultural Andino",
+      "contact_email": "negocio13@example.com",
+      "phone": null
+    },
+    {
+      "id": "973886db-1b01-4b0c-a2e6-fdfe6ea742ba",
+      "owner_id": "a5fa3b3c-681b-4f77-87f4-d11a1f0f14f4",
+      "name": "Demo - Descanso de Altura",
+      "contact_email": "negocio14@example.com",
+      "phone": null
+    },
+    {
+      "id": "9f03b5ad-80da-4a8f-b7b2-70092d164389",
+      "owner_id": "fc4f350c-6c2c-49a1-b159-fd9b4f53409f",
+      "name": "Demo - Fotografía Cordillera",
+      "contact_email": "negocio15@example.com",
+      "phone": null
+    },
+    {
+      "id": "5dd2b506-e25e-49bb-b181-c7f8b735a67e",
+      "owner_id": "b16b016d-ffe6-4340-ad17-ddeb16776cc6",
+      "name": "Demo - Mercado de Sabores",
+      "contact_email": "negocio16@example.com",
+      "phone": null
+    },
+    {
+      "id": "0bda4db4-fc07-4e97-b9f5-3387a947196f",
+      "owner_id": "66add482-c36d-41a1-8817-bb2f2218f91a",
+      "name": "Demo - Caminos Comunitarios",
+      "contact_email": "negocio17@example.com",
+      "phone": null
+    },
+    {
+      "id": "0fe125c2-75f1-47aa-9c6a-a2f847adb069",
+      "owner_id": "a5fa3b3c-681b-4f77-87f4-d11a1f0f14f4",
+      "name": "Demo - Música de los Andes",
+      "contact_email": "negocio18@example.com",
+      "phone": null
+    },
+    {
+      "id": "bdc5451d-cb18-4d10-9ea9-1ee00836b631",
+      "owner_id": "fc4f350c-6c2c-49a1-b159-fd9b4f53409f",
+      "name": "Demo - Jardín de la Kantuta",
+      "contact_email": "negocio19@example.com",
+      "phone": null
+    },
+    {
+      "id": "a9969777-a3cc-458e-a38a-061c1d0a45ea",
+      "owner_id": "b16b016d-ffe6-4340-ad17-ddeb16776cc6",
+      "name": "Demo - Explora el Valle",
+      "contact_email": "negocio20@example.com",
+      "phone": null
+    }
+  ],
+  "nota_categorias": "Categorías e IDs confirmados mediante exportación de Supabase entregada por el usuario. Las otras tablas contienen IDs previstos en el SQL; pendiente verificar su carga.",
+  "categories": [
+    {
+      "id": "715f0ee5-6188-41b5-9682-bc9a65fb29ee",
+      "name": "Arquitectura",
+      "slug": "arquitectura"
+    },
+    {
+      "id": "410922c2-71a0-4bfa-b7c4-e78f56c8b5aa",
+      "name": "Artesanía",
+      "slug": "artesania"
+    },
+    {
+      "id": "952e3da9-ab4e-4b8a-9454-25d59a030299",
+      "name": "Artesanía y Mercados",
+      "slug": "artesania-mercados"
+    },
+    {
+      "id": "e15fa484-8473-4563-ba18-2c4ad80509a3",
+      "name": "Aventura",
+      "slug": "aventura"
+    },
+    {
+      "id": "7a009764-1e69-4a8c-bbb2-298fd5ea45a1",
+      "name": "Aventura y Trekking",
+      "slug": "aventura-trekking"
+    },
+    {
+      "id": "b8f00637-7476-44a8-8d75-1e474a058ff4",
+      "name": "Bienestar",
+      "slug": "bienestar"
+    },
+    {
+      "id": "34605846-ae66-4134-b4e5-22c7b82adc79",
+      "name": "Camping",
+      "slug": "camping"
+    },
+    {
+      "id": "47f25341-1b06-47ca-85cd-212f0f24f1f6",
+      "name": "Ciclismo",
+      "slug": "ciclismo"
+    },
+    {
+      "id": "5e2c4f56-effc-4197-a681-7aeb287deadf",
+      "name": "Cultura",
+      "slug": "cultura"
+    },
+    {
+      "id": "1f9983c2-d37c-4c79-ad60-a13b18464b01",
+      "name": "Danza",
+      "slug": "danza"
+    },
+    {
+      "id": "672436f7-4fc7-4989-877c-fd6023e38e66",
+      "name": "Ecoturismo",
+      "slug": "ecoturismo"
+    },
+    {
+      "id": "915e2cd0-4879-4479-a51d-1ee8c0f96b0e",
+      "name": "Fotografía",
+      "slug": "fotografia"
+    },
+    {
+      "id": "80ff9f56-1fcf-4796-96e8-1daaedf9261f",
+      "name": "Fotografía y Miradores",
+      "slug": "fotografia-miradores"
+    },
+    {
+      "id": "ef00ed8d-56e8-42db-8252-4f207809df2c",
+      "name": "Gastronomía",
+      "slug": "gastronomia"
+    },
+    {
+      "id": "a6eadcb9-1cb2-40a4-bbee-206eac3ce779",
+      "name": "Historia",
+      "slug": "historia"
+    },
+    {
+      "id": "e45f5d84-efe6-481e-ac4f-a49cd63ca9be",
+      "name": "Historia y Arquitectura",
+      "slug": "historia-arquitectura"
+    },
+    {
+      "id": "355f748e-76eb-452e-9947-b8d7d3dee331",
+      "name": "Mercados",
+      "slug": "mercados"
+    },
+    {
+      "id": "92b25a36-4da2-4ccc-b0e1-7f4e57789678",
+      "name": "Miradores",
+      "slug": "miradores"
+    },
+    {
+      "id": "93981b0e-132c-491e-baa1-20f2d74789f7",
+      "name": "Museos",
+      "slug": "museos"
+    },
+    {
+      "id": "776f8a1c-f710-4a86-9a29-1067a2d341d7",
+      "name": "Música",
+      "slug": "musica"
+    },
+    {
+      "id": "9ed51c4a-9abc-4eb5-a014-3275daad7c76",
+      "name": "Naturaleza",
+      "slug": "naturaleza"
+    },
+    {
+      "id": "cdd70da8-9aca-43f9-bdf0-b0e78e787a92",
+      "name": "Observación de aves",
+      "slug": "observacion-de-aves"
+    },
+    {
+      "id": "540da4a8-3dbb-4f0d-a81b-6eb48e1db612",
+      "name": "Senderismo",
+      "slug": "senderismo"
+    },
+    {
+      "id": "520ecdd4-0497-456d-b37d-25d72214caa5",
+      "name": "Turismo comunitario",
+      "slug": "turismo-comunitario"
+    },
+    {
+      "id": "cc6c663b-d7a5-4d0e-accb-e2bbef82f6a0",
+      "name": "Vida Nocturna y Peñas",
+      "slug": "vida-nocturna-penas"
+    }
+  ]
+}
